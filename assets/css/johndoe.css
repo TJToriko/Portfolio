@@ -11715,6 +11715,7 @@ pre .code {
 
 .portfolio-content {
   padding: 20px;
+  border: 2px solid rgba(0, 0, 0, 0.125);
 }
 
 .portfolio-content-img img {
@@ -11734,4 +11735,9 @@ pre .code {
   font-size: 16px;
   color: #777777;
   margin-top: 10px;
+}
+
+.btn-outline-white {
+  color: white;
+    border-color: white;
 }
